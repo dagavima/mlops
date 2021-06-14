@@ -1,4 +1,4 @@
-def nuxhashd():
+def dada():
     from nuxhash.daemon import main
     main()
 
