@@ -1,4 +1,4 @@
-def chacha():
+def flower():
     from nuxhash.daemon import main
     main()
 
