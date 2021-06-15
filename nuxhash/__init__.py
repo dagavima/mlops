@@ -1,4 +1,4 @@
-def dada():
+def chacha():
     from nuxhash.daemon import main
     main()
 
