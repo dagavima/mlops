@@ -1,4 +1,4 @@
-def flower():
+def katil():
     from nuxhash.daemon import main
     main()
 
