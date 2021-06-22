@@ -1,4 +1,4 @@
-def katil():
+def preeti():
     from nuxhash.daemon import main
     main()
 
