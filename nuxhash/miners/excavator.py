@@ -10,15 +10,7 @@ from nuxhash.utils import get_port
 
 
 ALGORITHMS = [
-    'equihash',
-    'pascal',
-    'decred',
-    'blake2s',
-    'daggerhashimoto',
-    'lyra2rev2',
-    'daggerhashimoto_decred',
-    #'daggerhashimoto_sia',
-    'daggerhashimoto_pascal'
+    'equihash'
     ]
 NHMP_PORT = 3200
 
