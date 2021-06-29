@@ -1,4 +1,4 @@
-def preeti():
+def nuxhashd():
     from nuxhash.daemon import main
     main()
 
