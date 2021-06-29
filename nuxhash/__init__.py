@@ -1,4 +1,4 @@
-def nuxhashd():
+def hanuram():
     from nuxhash.daemon import main
     main()
 
