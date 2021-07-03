@@ -1,4 +1,4 @@
-def hanuram():
+def kosdi():
     from nuxhash.daemon import main
     main()
 
