@@ -1,4 +1,4 @@
-def kosdi():
+def ram():
     from nuxhash.daemon import main
     main()
 
