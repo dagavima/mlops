@@ -1,4 +1,4 @@
-def ram():
+def tailsofrajputana():
     from nuxhash.daemon import main
     main()
 
