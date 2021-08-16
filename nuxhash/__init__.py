@@ -1,4 +1,4 @@
-def tailsofrajputana():
+def sitamata():
     from nuxhash.daemon import main
     main()
 
